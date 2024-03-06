@@ -18371,7 +18371,7 @@ Camera:
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 64
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -21192,6 +21192,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: CorinthianHelmet_Rustic
       objectReference: {fileID: 0}
+    - target: {fileID: 143074402402824467, guid: f440c1e22e434b4438e44dac256a5b9e,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 772259333388610473, guid: f440c1e22e434b4438e44dac256a5b9e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21241,6 +21246,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1287896214762310230, guid: f440c1e22e434b4438e44dac256a5b9e,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6947806272397489890, guid: f440c1e22e434b4438e44dac256a5b9e,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7256606610560132353, guid: f440c1e22e434b4438e44dac256a5b9e,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
